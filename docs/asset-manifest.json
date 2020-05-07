@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/js/main.da5010f1.chunk.js",
-    "main.js.map": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/js/main.da5010f1.chunk.js.map",
-    "runtime-main.js": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/js/runtime-main.960633f3.js",
-    "runtime-main.js.map": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/js/runtime-main.960633f3.js.map",
-    "static/css/2.69121389.chunk.css": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/css/2.69121389.chunk.css",
-    "static/js/2.4f2795fa.chunk.js": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/js/2.4f2795fa.chunk.js",
-    "static/js/2.4f2795fa.chunk.js.map": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/js/2.4f2795fa.chunk.js.map",
-    "index.html": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/index.html",
-    "precache-manifest.d2947272a46451f08b442ce0959a0538.js": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/precache-manifest.d2947272a46451f08b442ce0959a0538.js",
-    "service-worker.js": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/css/2.69121389.chunk.css.map",
-    "static/js/2.4f2795fa.chunk.js.LICENSE.txt": "/%E2%80%9CHttps://kyu23.github.io/royal-foxes/%E2%80%9C/static/js/2.4f2795fa.chunk.js.LICENSE.txt"
+    "main.js": "/royal-foxes/static/js/main.47afedbc.chunk.js",
+    "main.js.map": "/royal-foxes/static/js/main.47afedbc.chunk.js.map",
+    "runtime-main.js": "/royal-foxes/static/js/runtime-main.c10eb5c1.js",
+    "runtime-main.js.map": "/royal-foxes/static/js/runtime-main.c10eb5c1.js.map",
+    "static/css/2.69121389.chunk.css": "/royal-foxes/static/css/2.69121389.chunk.css",
+    "static/js/2.4f2795fa.chunk.js": "/royal-foxes/static/js/2.4f2795fa.chunk.js",
+    "static/js/2.4f2795fa.chunk.js.map": "/royal-foxes/static/js/2.4f2795fa.chunk.js.map",
+    "index.html": "/royal-foxes/index.html",
+    "precache-manifest.de036ac1e6a37f4459957a0081827e5e.js": "/royal-foxes/precache-manifest.de036ac1e6a37f4459957a0081827e5e.js",
+    "service-worker.js": "/royal-foxes/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/royal-foxes/static/css/2.69121389.chunk.css.map",
+    "static/js/2.4f2795fa.chunk.js.LICENSE.txt": "/royal-foxes/static/js/2.4f2795fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.960633f3.js",
+    "static/js/runtime-main.c10eb5c1.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.4f2795fa.chunk.js",
-    "static/js/main.da5010f1.chunk.js"
+    "static/js/main.47afedbc.chunk.js"
   ]
 }
